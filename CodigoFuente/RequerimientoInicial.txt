@@ -2,3 +2,4 @@ Este archivo representa la implementación hipotética de un requerimiento inici
 
 A continuación se ennumera los cambios hechos:
 v1.0.0: implementación inicial del requerimiento.
+v1.0.1: ajuste del sistema por arreglo de un error reportado.
