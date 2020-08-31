@@ -1,0 +1,5 @@
+Este archivo representa la implementación del requerimiento 1 (feature 1).
+
+A continuación se listan los ajustes hechos:
+v1.1.0 - 1: implementación inicial.
+v1.1.0 - 2: ajuste final.
